@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import styles from '../styles/Product.module.css'
-import Header from "../components/Header/Header"
 import {useRouter} from 'next/router'
 import {motion} from 'framer-motion'
 import Link from 'next/link'
